@@ -84,6 +84,7 @@ onMounted(() => {
     Download CV <i class="ri-download-line"></i>
   </a>
 </div>
+          </div>
           <div class="about-content-part-bottom wow fadeInUp delay-0-2s">
             <h2>Company I Worked With</h2>
             <div class="company-list">
