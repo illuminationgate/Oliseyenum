@@ -80,7 +80,7 @@ onMounted(() => {
             </div>
          <div class="hero-btns">
   <!-- Use a regular <a> tag with the 'download' attribute -->
-  <a href="/profile.pdf" download class="theme-btn bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-full transition-colors">
+  <a href="/Profile.pdf" download class="theme-btn bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-full transition-colors">
     Download CV <i class="ri-download-line"></i>
   </a>
 </div>
