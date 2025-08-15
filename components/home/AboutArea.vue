@@ -78,10 +78,12 @@ onMounted(() => {
                 <li><i class="ri-circle-fill"></i>Available for Freelancing</li>
               </ul>
             </div>
-            <div class="hero-btns">
-              <NuxtLink to="/profile.pdf" class="theme-btn bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-full transition-colors">Download CV <i class="ri-download-line"></i></NuxtLink>
-            </div>
-          </div>
+         <div class="hero-btns">
+  <!-- Use a regular <a> tag with the 'download' attribute -->
+  <a href="/profile.pdf" download class="theme-btn bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-full transition-colors">
+    Download CV <i class="ri-download-line"></i>
+  </a>
+</div>
           <div class="about-content-part-bottom wow fadeInUp delay-0-2s">
             <h2>Company I Worked With</h2>
             <div class="company-list">
