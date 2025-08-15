@@ -79,7 +79,7 @@ onMounted(() => {
               </ul>
             </div>
             <div class="hero-btns">
-              <NuxtLink to="/contact" class="theme-btn bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-full transition-colors">Download CV <i class="ri-download-line"></i></NuxtLink>
+              <NuxtLink to="/profile.pdf" class="theme-btn bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-full transition-colors">Download CV <i class="ri-download-line"></i></NuxtLink>
             </div>
           </div>
           <div class="about-content-part-bottom wow fadeInUp delay-0-2s">
